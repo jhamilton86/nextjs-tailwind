@@ -28,7 +28,7 @@ export default function Home() {
                 <div className="flex item-center justify-center flex-wrap max-w-3xl">
                     <a
                         href="https://nextjs.org/docs"
-                        className="m-4 p-6 text-left text-decoration-none text-inherit hover:text-blue-600 border border-gray-200 hover:border-blue-600 rounded-lg transition-colors duration-150 max-w-xs"
+                        className="m-4 p-6 text-left no-underline text-inherit hover:text-blue-600 border border-gray-200 hover:border-blue-600 rounded-lg transition-colors duration-150 max-w-xs"
                     >
                         <h2 className="m-0 mb-4 text-2xl font-bold">Documentation &rarr;</h2>
                         <p className="m-0 text-xl">
@@ -38,7 +38,7 @@ export default function Home() {
 
                     <a
                         href="https://nextjs.org/learn"
-                        className="m-4 p-6 text-left text-decoration-none text-inherit hover:text-blue-600 border border-gray-200 hover:border-blue-600 rounded-lg transition-colors duration-150 max-w-xs"
+                        className="m-4 p-6 text-left no-underline text-inherit hover:text-blue-600 border border-gray-200 hover:border-blue-600 rounded-lg transition-colors duration-150 max-w-xs"
                     >
                         <h2 className="m-0 mb-4 text-2xl font-bold">Learn &rarr;</h2>
                         <p className="m-0 text-xl">
@@ -48,7 +48,7 @@ export default function Home() {
 
                     <a
                         href="https://github.com/vercel/next.js/tree/master/examples"
-                        className="m-4 p-6 text-left text-decoration-none text-inherit hover:text-blue-600 border border-gray-200 hover:border-blue-600 rounded-lg transition-colors duration-150 max-w-xs"
+                        className="m-4 p-6 text-left no-underline text-inherit hover:text-blue-600 border border-gray-200 hover:border-blue-600 rounded-lg transition-colors duration-150 max-w-xs"
                     >
                         <h2 className="m-0 mb-4 text-2xl font-bold">Examples &rarr;</h2>
                         <p className="m-0 text-xl">
@@ -58,7 +58,7 @@ export default function Home() {
 
                     <a
                         href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-                        className="m-4 p-6 text-left text-decoration-none text-inherit hover:text-blue-600 border border-gray-200 hover:border-blue-600 rounded-lg transition-colors duration-150 max-w-xs"
+                        className="m-4 p-6 text-left no-underline text-inherit hover:text-blue-600 border border-gray-200 hover:border-blue-600 rounded-lg transition-colors duration-150 max-w-xs"
                     >
                         <h2 className="m-0 mb-4 text-2xl font-bold">Deploy &rarr;</h2>
                         <p className="m-0 text-xl">

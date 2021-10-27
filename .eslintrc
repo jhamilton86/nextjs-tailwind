@@ -8,7 +8,8 @@
     "plugins": ["@typescript-eslint", "react-hooks"],
     "extends": [
         "plugin:@typescript-eslint/eslint-recommended",
-        "plugin:@typescript-eslint/recommended"
+        "plugin:@typescript-eslint/recommended",
+        "plugin:@next/next/recommended"
     ],
     "rules": {
         "@typescript-eslint/explicit-module-boundary-types": "off",
